@@ -88,3 +88,24 @@
 .lifestyle__img{
     margin-bottom: 70px;
 }
+
+.sign-up{
+    background-color: #f0f0f0;
+}
+
+.sign-up__inner{
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 75px 0;
+    margin-top: 120px;
+}
+
+
+.sign-up__input {
+    border: none;
+    border-bottom: 2px solid black;
+    display: block;
+    width: 90%;
+    background-color: #f0f0f0;
+    margin-top: 80px;
+}
